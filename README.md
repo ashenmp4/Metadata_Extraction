@@ -140,7 +140,7 @@ Similarly, we checked the true file type of this image file using the file comma
   file rubiks.jpg
   ```
 
-  ![File](Assets/5-rubriks/1_file_rubriks.png)
+  ![File](Assets/5-rubriks.jpg/1_file_rubriks.png)
   
   **Result** :
 
@@ -156,7 +156,7 @@ Similarly, we checked the true file type of this image file using the file comma
   file rubiks.png
   ```
 
-  ![File](Assets/5-rubriks/2_file_rubriks.png)
+  ![File](Assets/5-rubriks.jpg/2_file_rubriks.png))
   
   **Result** :
 
