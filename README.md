@@ -123,7 +123,7 @@ Malicious or deceptive files often hide behind spoofed extensions. We used the `
   file solitaire.png
   ```
   
-  ![File](Assets/4-solitaire/2_file_solitaire.png)
+  ![File](Assets/4-solitaire/1_file_solitaire.png)
   
   **Result** :
 
