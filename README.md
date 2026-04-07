@@ -40,7 +40,7 @@ We used `hexeditor` to analyze this image.
 hexeditor computer.jpg
 ```
 
-![Hexeditor](assets/2-computer.jpg/hexeditor.png)
+![Hexeditor](Assets/2-computer.jpg/hexeditor.png)
 
 **Result** :
 
@@ -56,7 +56,7 @@ We Used `Binwalk` to check if any other files were hidden within the image binar
   ```bash
   binwalk dog.jpg
   ```
-  ![Binwalk](assets/3-dog.jpg/binwalk_dog.png)
+  ![Binwalk](Assets/3-dog.jpg/binwalk_dog.png)
 
   * It successfully detected the hidden ZIP archive
 
@@ -74,7 +74,7 @@ We Used `Binwalk` to check if any other files were hidden within the image binar
   cat hidden_text.txt
   ```
 
-  ![dog hidden text](assets/3-dog.jpg/extracted_dog.png)
+  ![dog hidden text](Assets/3-dog.jpg/extracted_dog.png)
 
   **Result** :
   
@@ -89,7 +89,7 @@ We used `strings` to quickly look for readable text hidden inside the image file
 strings computer.jpg
 ```
 
-![Strings](assets/2-computer.jpg/strings_computer.png)
+![Strings](Assets/2-computer.jpg/strings_computer.png)
 
 **Result** : 
 
@@ -106,7 +106,7 @@ Malicious or deceptive files often hide behind spoofed extensions. We used the `
   file solitaire.exe
   ```
 
-  ![File](assets/4-solitaire/1_file_solitaire.png)
+  ![File](Assets/4-solitaire/1_file_solitaire.png)
 
   **Result** :
   
@@ -123,7 +123,7 @@ Malicious or deceptive files often hide behind spoofed extensions. We used the `
   file solitaire.png
   ```
   
-  ![file](assets/4-solitaire/2_file_solitaire.png)
+  ![file](Assets/4-solitaire/2_file_solitaire.png)
   
   **Result** :
 
@@ -140,7 +140,7 @@ Similarly, we checked the true file type of this image file using the file comma
   file rubiks.jpg
   ```
 
-  ![file](assets/5-rubriks/1_file_rubriks.png)
+  ![file](Assets/5-rubriks/1_file_rubriks.png)
   
   **Result** :
 
@@ -156,7 +156,7 @@ Similarly, we checked the true file type of this image file using the file comma
   file rubiks.png
   ```
 
-  ![file](assets/5-rubriks/2_file_rubriks.png)
+  ![file](Assets/5-rubriks/2_file_rubriks.png)
   
   **Result** :
 
