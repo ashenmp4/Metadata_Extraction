@@ -123,7 +123,7 @@ Malicious or deceptive files often hide behind spoofed extensions. We used the `
   file solitaire.png
   ```
   
-  ![file](Assets/4-solitaire/2_file_solitaire.png)
+  ![File](Assets/4-solitaire/2_file_solitaire.png)
   
   **Result** :
 
@@ -140,7 +140,7 @@ Similarly, we checked the true file type of this image file using the file comma
   file rubiks.jpg
   ```
 
-  ![file](Assets/5-rubriks/1_file_rubriks.png)
+  ![File](Assets/5-rubriks/1_file_rubriks.png)
   
   **Result** :
 
@@ -156,7 +156,7 @@ Similarly, we checked the true file type of this image file using the file comma
   file rubiks.png
   ```
 
-  ![file](Assets/5-rubriks/2_file_rubriks.png)
+  ![File](Assets/5-rubriks/2_file_rubriks.png)
   
   **Result** :
 
