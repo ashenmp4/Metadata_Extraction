@@ -23,7 +23,7 @@ We used `ExifTool` to analyze the metadata of this JPEG.
 exiftool ocean.jpg
 ```
 
-![ExifTool](Assets/Exiftool-ocean.png/Exiftool-ocean.png)
+![ExifTool](Assets/Exiftool-ocean.png/Exiftool_ocean.png)
 
 * Inspecting the output revealed a hidden flag planted within the image's `Comment` field.
 
@@ -40,7 +40,7 @@ We used `hexeditor` to analyze this image.
 hexeditor computer.jpg
 ```
 
-![Hexeditor](assets/2-Hexeditor/hexeditor-computer.jpg.png)
+![Hexeditor](assets/2-Hexeditor/hexeditor.png)
 
 **Result** :
 
