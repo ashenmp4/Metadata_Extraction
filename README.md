@@ -23,7 +23,7 @@ We used `ExifTool` to analyze the metadata of this JPEG.
 exiftool ocean.jpg
 ```
 
-![ExifTool](Assets/Exiftool-ocean.png/Exiftool_ocean.png)
+![ExifTool](Assets/1-ocean.jpg/Exiftool_ocean.png)
 
 * Inspecting the output revealed a hidden flag planted within the image's `Comment` field.
 
